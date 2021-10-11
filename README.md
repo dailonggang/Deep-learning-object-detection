@@ -68,7 +68,7 @@ References:[1]H. Zhu, X. Chen, W. Dai, K. Fu, Q. Ye, J. Jiao, "Orientation Robus
 ### 3.2 Papers
 --------------
 ### 2021
-* Chang et al, DAMix: Density-Aware Data Augmentation for Unsupervised Domain Adaptation on Single Image Dehazing. [[paper](https://arxiv.org/abs/2109.12544)][code]
+* Feng et al, DARDet: A Dense Anchor-free Rotated Object Detector in Aerial Images. [[paper](https://arxiv.org/pdf/2110.01025.pdf)][[code](https://github.com/zf020114/DARDet)]
 * Zhao et al, Hybrid Local-Global Transformer for Image Dehazing. [[paper](https://arxiv.org/abs/2109.07100)][code]
 * Liu et al, From Synthetic to Real: Image Dehazing Collaborating with Unlabeled Real Data. (ACMMM) [[paper](https://arxiv.org/pdf/2108.02934.pdf)][[code](https://github.com/liuye123321/DMT-Net)]
 * Chen et al, PSD: Principled Synthetic-to-Real Dehazing Guided by Physical Priors. (CVPR) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf)][[code](https://github.com/zychen-ustc/PSD-Principled-Synthetic-to-Real-Dehazing-Guided-by-Physical-Priors)]
