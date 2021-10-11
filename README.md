@@ -6,7 +6,7 @@ Related papers, code summary
 
    * Thanks for the sharing of [DerainZoo](https://github.com/nnUyi/DerainZoo) by [Youzhao Yang](https://github.com/nnuyi).
    
-   * More details about image dehazing and deraining are available [here](https://zhuanlan.zhihu.com/dehaze-derain).
+   * More details about image dehazing and deraining are available [here](https://www.zhihu.com/column/c_1335912341511663616).
 
 ## 2 Image Quality Metrics
 * PSNR (Peak Signal-to-Noise Ratio) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4550695) [[matlab code]](https://www.mathworks.com/help/images/ref/psnr.html) [[python code]](https://github.com/aizvorski/video-quality)
