@@ -1,4 +1,4 @@
-# Remote-sensing-object-detection
+# Deep-learning-object-detection
 Related papers, code summary
 
 ## 1 Description
