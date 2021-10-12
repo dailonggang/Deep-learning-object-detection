@@ -63,6 +63,7 @@ References:[1]H. Zhu, X. Chen, W. Dai, K. Fu, Q. Ye, J. Jiao, "Orientation Robus
 --------------
 ### 2021
 * Feng et al, DARDet: A Dense Anchor-free Rotated Object Detector in Aerial Images.注：无锚框自然图像 [[paper](https://arxiv.org/pdf/2110.01025.pdf)][[code](https://github.com/zf020114/DARDet)]
+* Steven Lang et al, DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection.遥感目标检测 [[paper](https://arxiv.org/pdf/2109.06148.pdf)][[code](https://github.com/steven-lang/DAFNe)]
 
 ### 2020
 
