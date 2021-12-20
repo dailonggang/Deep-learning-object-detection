@@ -72,6 +72,8 @@ References:[1]H. Zhu, X. Chen, W. Dai, K. Fu, Q. Ye, J. Jiao, "Orientation Robus
 * D2Det: Towards High Quality Object Detection and Instance Segmentation.自然图像目标检测 [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf)][[code](https://github.com/JialeCao001/D2Det)]
 * s2anet  Align Deep Features for Oriented Object Detection.遥感旋转目标检测 [[paper](https://arxiv.org/pdf/2008.09397.pdf)][[code](https://github.com/csuhan/
 s2anet)]
+* Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection.遥感目标检测 [[paper](https://arxiv.org/pdf/1912.02424.pdf)][[code](https://github.com/sfzhang15/ATSS)]
+
 
 
 
