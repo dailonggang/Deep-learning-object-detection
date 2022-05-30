@@ -75,7 +75,26 @@ s2anet)]
 * Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection.遥感目标检测 [[paper](https://arxiv.org/pdf/1912.02424.pdf)][[code](https://github.com/sfzhang15/ATSS)]
 
 
-
+R-CNN https://arxiv.org/abs/1311.2524
+Fast R-CNN https://arxiv.org/abs/1504.08083
+Faster R-CNN https://arxiv.org/abs/1506.01497
+Cascade R-CNN: Delving into High Quality Object Detection https://arxiv.org/abs/1712.00726
+Mask R-CNN https://arxiv.org/abs/1703.06870
+SSD https://arxiv.org/abs/1512.02325
+FPN(Feature Pyramid Networks for Object Detection) https://arxiv.org/abs/1612.03144
+RetinaNet(Focal Loss for Dense Object Detection) https://arxiv.org/abs/1708.02002
+Bag of Freebies for Training Object Detection Neural Networks https://arxiv.org/abs/1902.04103
+YOLOv1 https://arxiv.org/abs/1506.02640
+YOLOv2 https://arxiv.org/abs/1612.08242
+YOLOv3 https://arxiv.org/abs/1804.02767
+YOLOv4 https://arxiv.org/abs/2004.10934
+YOLOX(Exceeding YOLO Series in 2021) https://arxiv.org/abs/2107.08430
+PP-YOLO https://arxiv.org/abs/2007.12099
+PP-YOLOv2 https://arxiv.org/abs/2104.10419
+CornerNet https://arxiv.org/abs/1808.01244
+FCOS(Old) https://arxiv.org/abs/1904.01355
+FCOS(New) https://arxiv.org/abs/2006.09214
+CenterNet https://arxiv.org/abs/1904.07850
 
 ### 2019
 * Zhi et al, FCOS: Fully Convolutional One-Stage Object Detection.注：无锚框自然图像 [[paper](https://arxiv.org/pdf/1904.01355.pdf)][[code](https://github.com/tianzhi0549/FCOS/)]
